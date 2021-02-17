@@ -1,0 +1,3 @@
+[submodule "tinsel"]
+	path = tinsel
+	url = https://github.com/POETSII/tinsel
